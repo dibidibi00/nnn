@@ -20,8 +20,9 @@
     {{ div }}
 
 </body>
-
+<a href="https://dibidibi00.github.io/sk_planet/00_IntroductionandSetup.html">
+이미선바보</a>
 </html>
 
 <!-- https://dibidibi00.github.io/sk_planet/ -->
-https://dibidibi00.github.io/sk_planet/00_IntroductionandSetup.html
+
