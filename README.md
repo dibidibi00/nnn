@@ -6,7 +6,7 @@
     rel="stylesheet" type="text/css"
 >
 <script 
-    src="http://cdn.pydata.org/bokeh/dev/bokeh-0.13.0.min.js"
+    src="https://dibidibi00.github.io/sk_planet/00_IntroductionandSetup.html"
 ></script>
 
 <body>
@@ -22,3 +22,6 @@
 </body>
 
 </html>
+
+<!-- https://dibidibi00.github.io/sk_planet/ -->
+https://dibidibi00.github.io/sk_planet/00_IntroductionandSetup.html
