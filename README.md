@@ -1,7 +1,24 @@
-<link rel="stylesheet" href="https://dibidibi00.github.io/sk_planet/00_IntroductionandSetup.html">
-<div class="remarkdown">
-  <h1>Default styles</h1>
-</div>
-<div class="remarkdown h1-underline hr-center">
-  <h1>With options</h1>
-</div>
+<!DOCTYPE html>
+<html lang="en-US">
+
+<link
+    href="http://cdn.pydata.org/bokeh/dev/bokeh-0.13.0.min.css"
+    rel="stylesheet" type="text/css"
+>
+<script 
+    src="http://cdn.pydata.org/bokeh/dev/bokeh-0.13.0.min.js"
+></script>
+
+<body>
+
+    <h1>Hello Bokeh!</h1>
+    
+    <p> Below is a simple plot of stock closing prices </p>
+    
+    {{ script }}
+    
+    {{ div }}
+
+</body>
+
+</html>
